@@ -100,3 +100,21 @@ $$
 
 ## 7. Estructura del Repo
 
+```
+├── data/
+│ ├── desafio_ponderadores_metrica.csv # Dataset sintético
+│ ├── diccionario_metricas_desafio.csv # Diccionario de métricas
+├── notebooks/
+│ ├── 01_eda.ipynb # Exploración de datos
+│ ├── 02_modelo_ponderacion.ipynb # Sistema de ponderación
+├── docs/
+│ ├── resumen_propuesta.pdf # Resumen visual (storytelling)
+├── README.md
+```
+
+## 8. Ejecución
+
+1. Clonar el repositorio.  
+2. Instalar dependencias (`requirements.txt`).  
+3. Abrir los notebooks en Jupyter/Colab.  
+4. Ejecutar en orden los notebooks (`01_eda` → `02_modelo_ponderacion`).  
