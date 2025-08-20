@@ -1,0 +1,14 @@
+cluster,metric_name,description
+Software Development,commits,Cantidad de commits realizados en el repositorio.
+Software Development,pull_requests,Pull requests creadas por el usuario.
+Software Development,builds,Ejecuciones de procesos de build.
+Software Development,deploys,Despliegues realizados a ambientes productivos o de testing.
+Data Analysis,queries_executed,Consultas ejecutadas en motores de datos.
+Data Analysis,dashboards_created,Dashboards nuevos generados.
+Data Analysis,notebooks_modified,Notebooks modificados por el usuario.
+Documentation,docs_created,Documentación técnica creada.
+Documentation,docs_edited,Documentación modificada o actualizada.
+Automation,scripts_run,Scripts automatizados ejecutados.
+Automation,jobs_scheduled,Tareas programadas creadas o modificadas.
+Collaboration,comments_left,Comentarios realizados en herramientas colaborativas.
+Collaboration,files_shared,Archivos compartidos con otros usuarios.

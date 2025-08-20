@@ -1,0 +1,1301 @@
+user_id,role,seniority,cluster,metric_name,event_count
+user_1,Frontend,Semi-Senior,Software Development,commits,14
+user_1,Frontend,Semi-Senior,Software Development,pull_requests,13
+user_1,Frontend,Semi-Senior,Software Development,builds,16
+user_1,Frontend,Semi-Senior,Software Development,deploys,26
+user_1,Frontend,Semi-Senior,Data Analysis,queries_executed,36
+user_1,Frontend,Semi-Senior,Data Analysis,dashboards_created,27
+user_1,Frontend,Semi-Senior,Data Analysis,notebooks_modified,15
+user_1,Frontend,Semi-Senior,Documentation,docs_created,16
+user_1,Frontend,Semi-Senior,Documentation,docs_edited,22
+user_1,Frontend,Semi-Senior,Automation,scripts_run,7
+user_1,Frontend,Semi-Senior,Automation,jobs_scheduled,5
+user_1,Frontend,Semi-Senior,Collaboration,comments_left,12
+user_1,Frontend,Semi-Senior,Collaboration,files_shared,12
+user_2,Backend,Semi-Senior,Software Development,commits,13
+user_2,Backend,Semi-Senior,Software Development,pull_requests,12
+user_2,Backend,Semi-Senior,Software Development,builds,25
+user_2,Backend,Semi-Senior,Software Development,deploys,11
+user_2,Backend,Semi-Senior,Data Analysis,queries_executed,24
+user_2,Backend,Semi-Senior,Data Analysis,dashboards_created,11
+user_2,Backend,Semi-Senior,Data Analysis,notebooks_modified,6
+user_2,Backend,Semi-Senior,Documentation,docs_created,18
+user_2,Backend,Semi-Senior,Documentation,docs_edited,12
+user_2,Backend,Semi-Senior,Automation,scripts_run,17
+user_2,Backend,Semi-Senior,Automation,jobs_scheduled,7
+user_2,Backend,Semi-Senior,Collaboration,comments_left,4
+user_2,Backend,Semi-Senior,Collaboration,files_shared,31
+user_3,Backend,Semi-Senior,Software Development,commits,35
+user_3,Backend,Semi-Senior,Software Development,pull_requests,2
+user_3,Backend,Semi-Senior,Software Development,builds,22
+user_3,Backend,Semi-Senior,Software Development,deploys,12
+user_3,Backend,Semi-Senior,Data Analysis,queries_executed,4
+user_3,Backend,Semi-Senior,Data Analysis,dashboards_created,12
+user_3,Backend,Semi-Senior,Data Analysis,notebooks_modified,20
+user_3,Backend,Semi-Senior,Documentation,docs_created,5
+user_3,Backend,Semi-Senior,Documentation,docs_edited,9
+user_3,Backend,Semi-Senior,Automation,scripts_run,9
+user_3,Backend,Semi-Senior,Automation,jobs_scheduled,9
+user_3,Backend,Semi-Senior,Collaboration,comments_left,25
+user_3,Backend,Semi-Senior,Collaboration,files_shared,8
+user_4,Backend,Semi-Senior,Software Development,commits,9
+user_4,Backend,Semi-Senior,Software Development,pull_requests,11
+user_4,Backend,Semi-Senior,Software Development,builds,21
+user_4,Backend,Semi-Senior,Software Development,deploys,14
+user_4,Backend,Semi-Senior,Data Analysis,queries_executed,9
+user_4,Backend,Semi-Senior,Data Analysis,dashboards_created,16
+user_4,Backend,Semi-Senior,Data Analysis,notebooks_modified,16
+user_4,Backend,Semi-Senior,Documentation,docs_created,8
+user_4,Backend,Semi-Senior,Documentation,docs_edited,25
+user_4,Backend,Semi-Senior,Automation,scripts_run,3
+user_4,Backend,Semi-Senior,Automation,jobs_scheduled,21
+user_4,Backend,Semi-Senior,Collaboration,comments_left,9
+user_4,Backend,Semi-Senior,Collaboration,files_shared,25
+user_5,Frontend,Semi-Senior,Software Development,commits,5
+user_5,Frontend,Semi-Senior,Software Development,pull_requests,25
+user_5,Frontend,Semi-Senior,Software Development,builds,23
+user_5,Frontend,Semi-Senior,Software Development,deploys,20
+user_5,Frontend,Semi-Senior,Data Analysis,queries_executed,6
+user_5,Frontend,Semi-Senior,Data Analysis,dashboards_created,22
+user_5,Frontend,Semi-Senior,Data Analysis,notebooks_modified,13
+user_5,Frontend,Semi-Senior,Documentation,docs_created,16
+user_5,Frontend,Semi-Senior,Documentation,docs_edited,8
+user_5,Frontend,Semi-Senior,Automation,scripts_run,17
+user_5,Frontend,Semi-Senior,Automation,jobs_scheduled,6
+user_5,Frontend,Semi-Senior,Collaboration,comments_left,8
+user_5,Frontend,Semi-Senior,Collaboration,files_shared,6
+user_6,Data Analyst,Junior,Software Development,commits,29
+user_6,Data Analyst,Junior,Software Development,pull_requests,27
+user_6,Data Analyst,Junior,Software Development,builds,6
+user_6,Data Analyst,Junior,Software Development,deploys,4
+user_6,Data Analyst,Junior,Data Analysis,queries_executed,24
+user_6,Data Analyst,Junior,Data Analysis,dashboards_created,9
+user_6,Data Analyst,Junior,Data Analysis,notebooks_modified,35
+user_6,Data Analyst,Junior,Documentation,docs_created,25
+user_6,Data Analyst,Junior,Documentation,docs_edited,7
+user_6,Data Analyst,Junior,Automation,scripts_run,20
+user_6,Data Analyst,Junior,Automation,jobs_scheduled,11
+user_6,Data Analyst,Junior,Collaboration,comments_left,5
+user_6,Data Analyst,Junior,Collaboration,files_shared,34
+user_7,Data Engineer,Junior,Software Development,commits,13
+user_7,Data Engineer,Junior,Software Development,pull_requests,10
+user_7,Data Engineer,Junior,Software Development,builds,21
+user_7,Data Engineer,Junior,Software Development,deploys,26
+user_7,Data Engineer,Junior,Data Analysis,queries_executed,26
+user_7,Data Engineer,Junior,Data Analysis,dashboards_created,20
+user_7,Data Engineer,Junior,Data Analysis,notebooks_modified,12
+user_7,Data Engineer,Junior,Documentation,docs_created,14
+user_7,Data Engineer,Junior,Documentation,docs_edited,15
+user_7,Data Engineer,Junior,Automation,scripts_run,6
+user_7,Data Engineer,Junior,Automation,jobs_scheduled,4
+user_7,Data Engineer,Junior,Collaboration,comments_left,20
+user_7,Data Engineer,Junior,Collaboration,files_shared,20
+user_8,Frontend,Semi-Senior,Software Development,commits,27
+user_8,Frontend,Semi-Senior,Software Development,pull_requests,20
+user_8,Frontend,Semi-Senior,Software Development,builds,10
+user_8,Frontend,Semi-Senior,Software Development,deploys,36
+user_8,Frontend,Semi-Senior,Data Analysis,queries_executed,10
+user_8,Frontend,Semi-Senior,Data Analysis,dashboards_created,12
+user_8,Frontend,Semi-Senior,Data Analysis,notebooks_modified,15
+user_8,Frontend,Semi-Senior,Documentation,docs_created,24
+user_8,Frontend,Semi-Senior,Documentation,docs_edited,28
+user_8,Frontend,Semi-Senior,Automation,scripts_run,15
+user_8,Frontend,Semi-Senior,Automation,jobs_scheduled,26
+user_8,Frontend,Semi-Senior,Collaboration,comments_left,21
+user_8,Frontend,Semi-Senior,Collaboration,files_shared,10
+user_9,Frontend,Semi-Senior,Software Development,commits,16
+user_9,Frontend,Semi-Senior,Software Development,pull_requests,26
+user_9,Frontend,Semi-Senior,Software Development,builds,23
+user_9,Frontend,Semi-Senior,Software Development,deploys,32
+user_9,Frontend,Semi-Senior,Data Analysis,queries_executed,3
+user_9,Frontend,Semi-Senior,Data Analysis,dashboards_created,12
+user_9,Frontend,Semi-Senior,Data Analysis,notebooks_modified,13
+user_9,Frontend,Semi-Senior,Documentation,docs_created,12
+user_9,Frontend,Semi-Senior,Documentation,docs_edited,28
+user_9,Frontend,Semi-Senior,Automation,scripts_run,14
+user_9,Frontend,Semi-Senior,Automation,jobs_scheduled,9
+user_9,Frontend,Semi-Senior,Collaboration,comments_left,24
+user_9,Frontend,Semi-Senior,Collaboration,files_shared,16
+user_10,Frontend,Semi-Senior,Software Development,commits,13
+user_10,Frontend,Semi-Senior,Software Development,pull_requests,10
+user_10,Frontend,Semi-Senior,Software Development,builds,14
+user_10,Frontend,Semi-Senior,Software Development,deploys,7
+user_10,Frontend,Semi-Senior,Data Analysis,queries_executed,6
+user_10,Frontend,Semi-Senior,Data Analysis,dashboards_created,16
+user_10,Frontend,Semi-Senior,Data Analysis,notebooks_modified,15
+user_10,Frontend,Semi-Senior,Documentation,docs_created,21
+user_10,Frontend,Semi-Senior,Documentation,docs_edited,22
+user_10,Frontend,Semi-Senior,Automation,scripts_run,9
+user_10,Frontend,Semi-Senior,Automation,jobs_scheduled,13
+user_10,Frontend,Semi-Senior,Collaboration,comments_left,7
+user_10,Frontend,Semi-Senior,Collaboration,files_shared,8
+user_11,Data Analyst,Junior,Software Development,commits,13
+user_11,Data Analyst,Junior,Software Development,pull_requests,22
+user_11,Data Analyst,Junior,Software Development,builds,11
+user_11,Data Analyst,Junior,Software Development,deploys,11
+user_11,Data Analyst,Junior,Data Analysis,queries_executed,4
+user_11,Data Analyst,Junior,Data Analysis,dashboards_created,19
+user_11,Data Analyst,Junior,Data Analysis,notebooks_modified,5
+user_11,Data Analyst,Junior,Documentation,docs_created,17
+user_11,Data Analyst,Junior,Documentation,docs_edited,12
+user_11,Data Analyst,Junior,Automation,scripts_run,28
+user_11,Data Analyst,Junior,Automation,jobs_scheduled,16
+user_11,Data Analyst,Junior,Collaboration,comments_left,19
+user_11,Data Analyst,Junior,Collaboration,files_shared,20
+user_12,Data Analyst,Junior,Software Development,commits,15
+user_12,Data Analyst,Junior,Software Development,pull_requests,22
+user_12,Data Analyst,Junior,Software Development,builds,3
+user_12,Data Analyst,Junior,Software Development,deploys,12
+user_12,Data Analyst,Junior,Data Analysis,queries_executed,20
+user_12,Data Analyst,Junior,Data Analysis,dashboards_created,14
+user_12,Data Analyst,Junior,Data Analysis,notebooks_modified,9
+user_12,Data Analyst,Junior,Documentation,docs_created,20
+user_12,Data Analyst,Junior,Documentation,docs_edited,23
+user_12,Data Analyst,Junior,Automation,scripts_run,9
+user_12,Data Analyst,Junior,Automation,jobs_scheduled,18
+user_12,Data Analyst,Junior,Collaboration,comments_left,18
+user_12,Data Analyst,Junior,Collaboration,files_shared,11
+user_13,Backend,Junior,Software Development,commits,25
+user_13,Backend,Junior,Software Development,pull_requests,20
+user_13,Backend,Junior,Software Development,builds,17
+user_13,Backend,Junior,Software Development,deploys,9
+user_13,Backend,Junior,Data Analysis,queries_executed,16
+user_13,Backend,Junior,Data Analysis,dashboards_created,14
+user_13,Backend,Junior,Data Analysis,notebooks_modified,21
+user_13,Backend,Junior,Documentation,docs_created,14
+user_13,Backend,Junior,Documentation,docs_edited,10
+user_13,Backend,Junior,Automation,scripts_run,18
+user_13,Backend,Junior,Automation,jobs_scheduled,26
+user_13,Backend,Junior,Collaboration,comments_left,16
+user_13,Backend,Junior,Collaboration,files_shared,12
+user_14,Frontend,Semi-Senior,Software Development,commits,26
+user_14,Frontend,Semi-Senior,Software Development,pull_requests,22
+user_14,Frontend,Semi-Senior,Software Development,builds,24
+user_14,Frontend,Semi-Senior,Software Development,deploys,22
+user_14,Frontend,Semi-Senior,Data Analysis,queries_executed,5
+user_14,Frontend,Semi-Senior,Data Analysis,dashboards_created,32
+user_14,Frontend,Semi-Senior,Data Analysis,notebooks_modified,14
+user_14,Frontend,Semi-Senior,Documentation,docs_created,7
+user_14,Frontend,Semi-Senior,Documentation,docs_edited,29
+user_14,Frontend,Semi-Senior,Automation,scripts_run,8
+user_14,Frontend,Semi-Senior,Automation,jobs_scheduled,19
+user_14,Frontend,Semi-Senior,Collaboration,comments_left,23
+user_14,Frontend,Semi-Senior,Collaboration,files_shared,25
+user_15,Data Engineer,Senior,Software Development,commits,24
+user_15,Data Engineer,Senior,Software Development,pull_requests,23
+user_15,Data Engineer,Senior,Software Development,builds,26
+user_15,Data Engineer,Senior,Software Development,deploys,16
+user_15,Data Engineer,Senior,Data Analysis,queries_executed,36
+user_15,Data Engineer,Senior,Data Analysis,dashboards_created,22
+user_15,Data Engineer,Senior,Data Analysis,notebooks_modified,21
+user_15,Data Engineer,Senior,Documentation,docs_created,25
+user_15,Data Engineer,Senior,Documentation,docs_edited,13
+user_15,Data Engineer,Senior,Automation,scripts_run,11
+user_15,Data Engineer,Senior,Automation,jobs_scheduled,18
+user_15,Data Engineer,Senior,Collaboration,comments_left,21
+user_15,Data Engineer,Senior,Collaboration,files_shared,9
+user_16,Data Engineer,Semi-Senior,Software Development,commits,7
+user_16,Data Engineer,Semi-Senior,Software Development,pull_requests,12
+user_16,Data Engineer,Semi-Senior,Software Development,builds,8
+user_16,Data Engineer,Semi-Senior,Software Development,deploys,25
+user_16,Data Engineer,Semi-Senior,Data Analysis,queries_executed,5
+user_16,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,11
+user_16,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,23
+user_16,Data Engineer,Semi-Senior,Documentation,docs_created,8
+user_16,Data Engineer,Semi-Senior,Documentation,docs_edited,13
+user_16,Data Engineer,Semi-Senior,Automation,scripts_run,19
+user_16,Data Engineer,Semi-Senior,Automation,jobs_scheduled,15
+user_16,Data Engineer,Semi-Senior,Collaboration,comments_left,20
+user_16,Data Engineer,Semi-Senior,Collaboration,files_shared,12
+user_17,Data Engineer,Senior,Software Development,commits,21
+user_17,Data Engineer,Senior,Software Development,pull_requests,9
+user_17,Data Engineer,Senior,Software Development,builds,24
+user_17,Data Engineer,Senior,Software Development,deploys,8
+user_17,Data Engineer,Senior,Data Analysis,queries_executed,11
+user_17,Data Engineer,Senior,Data Analysis,dashboards_created,19
+user_17,Data Engineer,Senior,Data Analysis,notebooks_modified,11
+user_17,Data Engineer,Senior,Documentation,docs_created,7
+user_17,Data Engineer,Senior,Documentation,docs_edited,9
+user_17,Data Engineer,Senior,Automation,scripts_run,7
+user_17,Data Engineer,Senior,Automation,jobs_scheduled,7
+user_17,Data Engineer,Senior,Collaboration,comments_left,26
+user_17,Data Engineer,Senior,Collaboration,files_shared,29
+user_18,Frontend,Semi-Senior,Software Development,commits,25
+user_18,Frontend,Semi-Senior,Software Development,pull_requests,31
+user_18,Frontend,Semi-Senior,Software Development,builds,20
+user_18,Frontend,Semi-Senior,Software Development,deploys,15
+user_18,Frontend,Semi-Senior,Data Analysis,queries_executed,9
+user_18,Frontend,Semi-Senior,Data Analysis,dashboards_created,21
+user_18,Frontend,Semi-Senior,Data Analysis,notebooks_modified,30
+user_18,Frontend,Semi-Senior,Documentation,docs_created,16
+user_18,Frontend,Semi-Senior,Documentation,docs_edited,23
+user_18,Frontend,Semi-Senior,Automation,scripts_run,10
+user_18,Frontend,Semi-Senior,Automation,jobs_scheduled,12
+user_18,Frontend,Semi-Senior,Collaboration,comments_left,10
+user_18,Frontend,Semi-Senior,Collaboration,files_shared,1
+user_19,Frontend,Senior,Software Development,commits,20
+user_19,Frontend,Senior,Software Development,pull_requests,30
+user_19,Frontend,Senior,Software Development,builds,34
+user_19,Frontend,Senior,Software Development,deploys,11
+user_19,Frontend,Senior,Data Analysis,queries_executed,14
+user_19,Frontend,Senior,Data Analysis,dashboards_created,19
+user_19,Frontend,Senior,Data Analysis,notebooks_modified,16
+user_19,Frontend,Senior,Documentation,docs_created,32
+user_19,Frontend,Senior,Documentation,docs_edited,12
+user_19,Frontend,Senior,Automation,scripts_run,11
+user_19,Frontend,Senior,Automation,jobs_scheduled,24
+user_19,Frontend,Senior,Collaboration,comments_left,11
+user_19,Frontend,Senior,Collaboration,files_shared,5
+user_20,Frontend,Junior,Software Development,commits,12
+user_20,Frontend,Junior,Software Development,pull_requests,10
+user_20,Frontend,Junior,Software Development,builds,7
+user_20,Frontend,Junior,Software Development,deploys,14
+user_20,Frontend,Junior,Data Analysis,queries_executed,17
+user_20,Frontend,Junior,Data Analysis,dashboards_created,15
+user_20,Frontend,Junior,Data Analysis,notebooks_modified,25
+user_20,Frontend,Junior,Documentation,docs_created,31
+user_20,Frontend,Junior,Documentation,docs_edited,8
+user_20,Frontend,Junior,Automation,scripts_run,9
+user_20,Frontend,Junior,Automation,jobs_scheduled,6
+user_20,Frontend,Junior,Collaboration,comments_left,14
+user_20,Frontend,Junior,Collaboration,files_shared,32
+user_21,Frontend,Senior,Software Development,commits,14
+user_21,Frontend,Senior,Software Development,pull_requests,19
+user_21,Frontend,Senior,Software Development,builds,7
+user_21,Frontend,Senior,Software Development,deploys,5
+user_21,Frontend,Senior,Data Analysis,queries_executed,24
+user_21,Frontend,Senior,Data Analysis,dashboards_created,7
+user_21,Frontend,Senior,Data Analysis,notebooks_modified,23
+user_21,Frontend,Senior,Documentation,docs_created,19
+user_21,Frontend,Senior,Documentation,docs_edited,14
+user_21,Frontend,Senior,Automation,scripts_run,15
+user_21,Frontend,Senior,Automation,jobs_scheduled,17
+user_21,Frontend,Senior,Collaboration,comments_left,31
+user_21,Frontend,Senior,Collaboration,files_shared,9
+user_22,Data Analyst,Semi-Senior,Software Development,commits,27
+user_22,Data Analyst,Semi-Senior,Software Development,pull_requests,22
+user_22,Data Analyst,Semi-Senior,Software Development,builds,22
+user_22,Data Analyst,Semi-Senior,Software Development,deploys,18
+user_22,Data Analyst,Semi-Senior,Data Analysis,queries_executed,30
+user_22,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,16
+user_22,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,22
+user_22,Data Analyst,Semi-Senior,Documentation,docs_created,19
+user_22,Data Analyst,Semi-Senior,Documentation,docs_edited,6
+user_22,Data Analyst,Semi-Senior,Automation,scripts_run,27
+user_22,Data Analyst,Semi-Senior,Automation,jobs_scheduled,10
+user_22,Data Analyst,Semi-Senior,Collaboration,comments_left,15
+user_22,Data Analyst,Semi-Senior,Collaboration,files_shared,9
+user_23,Backend,Senior,Software Development,commits,13
+user_23,Backend,Senior,Software Development,pull_requests,17
+user_23,Backend,Senior,Software Development,builds,18
+user_23,Backend,Senior,Software Development,deploys,14
+user_23,Backend,Senior,Data Analysis,queries_executed,12
+user_23,Backend,Senior,Data Analysis,dashboards_created,23
+user_23,Backend,Senior,Data Analysis,notebooks_modified,25
+user_23,Backend,Senior,Documentation,docs_created,27
+user_23,Backend,Senior,Documentation,docs_edited,19
+user_23,Backend,Senior,Automation,scripts_run,28
+user_23,Backend,Senior,Automation,jobs_scheduled,8
+user_23,Backend,Senior,Collaboration,comments_left,9
+user_23,Backend,Senior,Collaboration,files_shared,7
+user_24,Backend,Semi-Senior,Software Development,commits,17
+user_24,Backend,Semi-Senior,Software Development,pull_requests,5
+user_24,Backend,Semi-Senior,Software Development,builds,16
+user_24,Backend,Semi-Senior,Software Development,deploys,20
+user_24,Backend,Semi-Senior,Data Analysis,queries_executed,20
+user_24,Backend,Semi-Senior,Data Analysis,dashboards_created,31
+user_24,Backend,Semi-Senior,Data Analysis,notebooks_modified,16
+user_24,Backend,Semi-Senior,Documentation,docs_created,15
+user_24,Backend,Semi-Senior,Documentation,docs_edited,7
+user_24,Backend,Semi-Senior,Automation,scripts_run,18
+user_24,Backend,Semi-Senior,Automation,jobs_scheduled,5
+user_24,Backend,Semi-Senior,Collaboration,comments_left,13
+user_24,Backend,Semi-Senior,Collaboration,files_shared,12
+user_25,Data Analyst,Semi-Senior,Software Development,commits,30
+user_25,Data Analyst,Semi-Senior,Software Development,pull_requests,20
+user_25,Data Analyst,Semi-Senior,Software Development,builds,17
+user_25,Data Analyst,Semi-Senior,Software Development,deploys,14
+user_25,Data Analyst,Semi-Senior,Data Analysis,queries_executed,4
+user_25,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,16
+user_25,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,13
+user_25,Data Analyst,Semi-Senior,Documentation,docs_created,9
+user_25,Data Analyst,Semi-Senior,Documentation,docs_edited,26
+user_25,Data Analyst,Semi-Senior,Automation,scripts_run,6
+user_25,Data Analyst,Semi-Senior,Automation,jobs_scheduled,21
+user_25,Data Analyst,Semi-Senior,Collaboration,comments_left,22
+user_25,Data Analyst,Semi-Senior,Collaboration,files_shared,30
+user_26,Frontend,Junior,Software Development,commits,6
+user_26,Frontend,Junior,Software Development,pull_requests,12
+user_26,Frontend,Junior,Software Development,builds,30
+user_26,Frontend,Junior,Software Development,deploys,9
+user_26,Frontend,Junior,Data Analysis,queries_executed,35
+user_26,Frontend,Junior,Data Analysis,dashboards_created,17
+user_26,Frontend,Junior,Data Analysis,notebooks_modified,9
+user_26,Frontend,Junior,Documentation,docs_created,29
+user_26,Frontend,Junior,Documentation,docs_edited,12
+user_26,Frontend,Junior,Automation,scripts_run,9
+user_26,Frontend,Junior,Automation,jobs_scheduled,20
+user_26,Frontend,Junior,Collaboration,comments_left,31
+user_26,Frontend,Junior,Collaboration,files_shared,28
+user_27,Data Analyst,Junior,Software Development,commits,18
+user_27,Data Analyst,Junior,Software Development,pull_requests,27
+user_27,Data Analyst,Junior,Software Development,builds,20
+user_27,Data Analyst,Junior,Software Development,deploys,20
+user_27,Data Analyst,Junior,Data Analysis,queries_executed,11
+user_27,Data Analyst,Junior,Data Analysis,dashboards_created,17
+user_27,Data Analyst,Junior,Data Analysis,notebooks_modified,15
+user_27,Data Analyst,Junior,Documentation,docs_created,12
+user_27,Data Analyst,Junior,Documentation,docs_edited,22
+user_27,Data Analyst,Junior,Automation,scripts_run,4
+user_27,Data Analyst,Junior,Automation,jobs_scheduled,12
+user_27,Data Analyst,Junior,Collaboration,comments_left,11
+user_27,Data Analyst,Junior,Collaboration,files_shared,5
+user_28,Frontend,Senior,Software Development,commits,6
+user_28,Frontend,Senior,Software Development,pull_requests,5
+user_28,Frontend,Senior,Software Development,builds,14
+user_28,Frontend,Senior,Software Development,deploys,7
+user_28,Frontend,Senior,Data Analysis,queries_executed,22
+user_28,Frontend,Senior,Data Analysis,dashboards_created,18
+user_28,Frontend,Senior,Data Analysis,notebooks_modified,32
+user_28,Frontend,Senior,Documentation,docs_created,32
+user_28,Frontend,Senior,Documentation,docs_edited,18
+user_28,Frontend,Senior,Automation,scripts_run,3
+user_28,Frontend,Senior,Automation,jobs_scheduled,7
+user_28,Frontend,Senior,Collaboration,comments_left,21
+user_28,Frontend,Senior,Collaboration,files_shared,13
+user_29,Data Engineer,Semi-Senior,Software Development,commits,7
+user_29,Data Engineer,Semi-Senior,Software Development,pull_requests,8
+user_29,Data Engineer,Semi-Senior,Software Development,builds,24
+user_29,Data Engineer,Semi-Senior,Software Development,deploys,7
+user_29,Data Engineer,Semi-Senior,Data Analysis,queries_executed,27
+user_29,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,14
+user_29,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,16
+user_29,Data Engineer,Semi-Senior,Documentation,docs_created,21
+user_29,Data Engineer,Semi-Senior,Documentation,docs_edited,3
+user_29,Data Engineer,Semi-Senior,Automation,scripts_run,25
+user_29,Data Engineer,Semi-Senior,Automation,jobs_scheduled,8
+user_29,Data Engineer,Semi-Senior,Collaboration,comments_left,10
+user_29,Data Engineer,Semi-Senior,Collaboration,files_shared,8
+user_30,Data Engineer,Semi-Senior,Software Development,commits,19
+user_30,Data Engineer,Semi-Senior,Software Development,pull_requests,9
+user_30,Data Engineer,Semi-Senior,Software Development,builds,23
+user_30,Data Engineer,Semi-Senior,Software Development,deploys,5
+user_30,Data Engineer,Semi-Senior,Data Analysis,queries_executed,6
+user_30,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,27
+user_30,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,5
+user_30,Data Engineer,Semi-Senior,Documentation,docs_created,10
+user_30,Data Engineer,Semi-Senior,Documentation,docs_edited,4
+user_30,Data Engineer,Semi-Senior,Automation,scripts_run,12
+user_30,Data Engineer,Semi-Senior,Automation,jobs_scheduled,6
+user_30,Data Engineer,Semi-Senior,Collaboration,comments_left,16
+user_30,Data Engineer,Semi-Senior,Collaboration,files_shared,19
+user_31,Frontend,Junior,Software Development,commits,4
+user_31,Frontend,Junior,Software Development,pull_requests,19
+user_31,Frontend,Junior,Software Development,builds,8
+user_31,Frontend,Junior,Software Development,deploys,12
+user_31,Frontend,Junior,Data Analysis,queries_executed,17
+user_31,Frontend,Junior,Data Analysis,dashboards_created,15
+user_31,Frontend,Junior,Data Analysis,notebooks_modified,19
+user_31,Frontend,Junior,Documentation,docs_created,7
+user_31,Frontend,Junior,Documentation,docs_edited,25
+user_31,Frontend,Junior,Automation,scripts_run,6
+user_31,Frontend,Junior,Automation,jobs_scheduled,18
+user_31,Frontend,Junior,Collaboration,comments_left,17
+user_31,Frontend,Junior,Collaboration,files_shared,29
+user_32,Frontend,Senior,Software Development,commits,23
+user_32,Frontend,Senior,Software Development,pull_requests,34
+user_32,Frontend,Senior,Software Development,builds,15
+user_32,Frontend,Senior,Software Development,deploys,26
+user_32,Frontend,Senior,Data Analysis,queries_executed,13
+user_32,Frontend,Senior,Data Analysis,dashboards_created,40
+user_32,Frontend,Senior,Data Analysis,notebooks_modified,15
+user_32,Frontend,Senior,Documentation,docs_created,29
+user_32,Frontend,Senior,Documentation,docs_edited,17
+user_32,Frontend,Senior,Automation,scripts_run,27
+user_32,Frontend,Senior,Automation,jobs_scheduled,30
+user_32,Frontend,Senior,Collaboration,comments_left,29
+user_32,Frontend,Senior,Collaboration,files_shared,14
+user_33,Backend,Semi-Senior,Software Development,commits,9
+user_33,Backend,Semi-Senior,Software Development,pull_requests,6
+user_33,Backend,Semi-Senior,Software Development,builds,3
+user_33,Backend,Semi-Senior,Software Development,deploys,32
+user_33,Backend,Semi-Senior,Data Analysis,queries_executed,42
+user_33,Backend,Semi-Senior,Data Analysis,dashboards_created,15
+user_33,Backend,Semi-Senior,Data Analysis,notebooks_modified,6
+user_33,Backend,Semi-Senior,Documentation,docs_created,9
+user_33,Backend,Semi-Senior,Documentation,docs_edited,22
+user_33,Backend,Semi-Senior,Automation,scripts_run,21
+user_33,Backend,Semi-Senior,Automation,jobs_scheduled,30
+user_33,Backend,Semi-Senior,Collaboration,comments_left,31
+user_33,Backend,Semi-Senior,Collaboration,files_shared,23
+user_34,Data Analyst,Semi-Senior,Software Development,commits,29
+user_34,Data Analyst,Semi-Senior,Software Development,pull_requests,7
+user_34,Data Analyst,Semi-Senior,Software Development,builds,22
+user_34,Data Analyst,Semi-Senior,Software Development,deploys,31
+user_34,Data Analyst,Semi-Senior,Data Analysis,queries_executed,28
+user_34,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,28
+user_34,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,12
+user_34,Data Analyst,Semi-Senior,Documentation,docs_created,22
+user_34,Data Analyst,Semi-Senior,Documentation,docs_edited,21
+user_34,Data Analyst,Semi-Senior,Automation,scripts_run,8
+user_34,Data Analyst,Semi-Senior,Automation,jobs_scheduled,14
+user_34,Data Analyst,Semi-Senior,Collaboration,comments_left,9
+user_34,Data Analyst,Semi-Senior,Collaboration,files_shared,33
+user_35,Data Analyst,Junior,Software Development,commits,2
+user_35,Data Analyst,Junior,Software Development,pull_requests,22
+user_35,Data Analyst,Junior,Software Development,builds,15
+user_35,Data Analyst,Junior,Software Development,deploys,25
+user_35,Data Analyst,Junior,Data Analysis,queries_executed,4
+user_35,Data Analyst,Junior,Data Analysis,dashboards_created,29
+user_35,Data Analyst,Junior,Data Analysis,notebooks_modified,21
+user_35,Data Analyst,Junior,Documentation,docs_created,30
+user_35,Data Analyst,Junior,Documentation,docs_edited,10
+user_35,Data Analyst,Junior,Automation,scripts_run,24
+user_35,Data Analyst,Junior,Automation,jobs_scheduled,21
+user_35,Data Analyst,Junior,Collaboration,comments_left,8
+user_35,Data Analyst,Junior,Collaboration,files_shared,13
+user_36,Data Engineer,Senior,Software Development,commits,32
+user_36,Data Engineer,Senior,Software Development,pull_requests,27
+user_36,Data Engineer,Senior,Software Development,builds,17
+user_36,Data Engineer,Senior,Software Development,deploys,19
+user_36,Data Engineer,Senior,Data Analysis,queries_executed,32
+user_36,Data Engineer,Senior,Data Analysis,dashboards_created,19
+user_36,Data Engineer,Senior,Data Analysis,notebooks_modified,8
+user_36,Data Engineer,Senior,Documentation,docs_created,14
+user_36,Data Engineer,Senior,Documentation,docs_edited,19
+user_36,Data Engineer,Senior,Automation,scripts_run,21
+user_36,Data Engineer,Senior,Automation,jobs_scheduled,17
+user_36,Data Engineer,Senior,Collaboration,comments_left,14
+user_36,Data Engineer,Senior,Collaboration,files_shared,20
+user_37,Frontend,Junior,Software Development,commits,5
+user_37,Frontend,Junior,Software Development,pull_requests,13
+user_37,Frontend,Junior,Software Development,builds,12
+user_37,Frontend,Junior,Software Development,deploys,17
+user_37,Frontend,Junior,Data Analysis,queries_executed,4
+user_37,Frontend,Junior,Data Analysis,dashboards_created,10
+user_37,Frontend,Junior,Data Analysis,notebooks_modified,11
+user_37,Frontend,Junior,Documentation,docs_created,10
+user_37,Frontend,Junior,Documentation,docs_edited,21
+user_37,Frontend,Junior,Automation,scripts_run,11
+user_37,Frontend,Junior,Automation,jobs_scheduled,5
+user_37,Frontend,Junior,Collaboration,comments_left,10
+user_37,Frontend,Junior,Collaboration,files_shared,28
+user_38,Data Engineer,Semi-Senior,Software Development,commits,6
+user_38,Data Engineer,Semi-Senior,Software Development,pull_requests,4
+user_38,Data Engineer,Semi-Senior,Software Development,builds,24
+user_38,Data Engineer,Semi-Senior,Software Development,deploys,12
+user_38,Data Engineer,Semi-Senior,Data Analysis,queries_executed,5
+user_38,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,8
+user_38,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,24
+user_38,Data Engineer,Semi-Senior,Documentation,docs_created,25
+user_38,Data Engineer,Semi-Senior,Documentation,docs_edited,14
+user_38,Data Engineer,Semi-Senior,Automation,scripts_run,2
+user_38,Data Engineer,Semi-Senior,Automation,jobs_scheduled,24
+user_38,Data Engineer,Semi-Senior,Collaboration,comments_left,22
+user_38,Data Engineer,Semi-Senior,Collaboration,files_shared,17
+user_39,Data Analyst,Semi-Senior,Software Development,commits,20
+user_39,Data Analyst,Semi-Senior,Software Development,pull_requests,18
+user_39,Data Analyst,Semi-Senior,Software Development,builds,15
+user_39,Data Analyst,Semi-Senior,Software Development,deploys,20
+user_39,Data Analyst,Semi-Senior,Data Analysis,queries_executed,32
+user_39,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,19
+user_39,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,25
+user_39,Data Analyst,Semi-Senior,Documentation,docs_created,11
+user_39,Data Analyst,Semi-Senior,Documentation,docs_edited,28
+user_39,Data Analyst,Semi-Senior,Automation,scripts_run,29
+user_39,Data Analyst,Semi-Senior,Automation,jobs_scheduled,27
+user_39,Data Analyst,Semi-Senior,Collaboration,comments_left,22
+user_39,Data Analyst,Semi-Senior,Collaboration,files_shared,25
+user_40,Frontend,Junior,Software Development,commits,20
+user_40,Frontend,Junior,Software Development,pull_requests,9
+user_40,Frontend,Junior,Software Development,builds,26
+user_40,Frontend,Junior,Software Development,deploys,12
+user_40,Frontend,Junior,Data Analysis,queries_executed,19
+user_40,Frontend,Junior,Data Analysis,dashboards_created,14
+user_40,Frontend,Junior,Data Analysis,notebooks_modified,3
+user_40,Frontend,Junior,Documentation,docs_created,14
+user_40,Frontend,Junior,Documentation,docs_edited,12
+user_40,Frontend,Junior,Automation,scripts_run,17
+user_40,Frontend,Junior,Automation,jobs_scheduled,14
+user_40,Frontend,Junior,Collaboration,comments_left,12
+user_40,Frontend,Junior,Collaboration,files_shared,22
+user_41,Data Engineer,Junior,Software Development,commits,11
+user_41,Data Engineer,Junior,Software Development,pull_requests,14
+user_41,Data Engineer,Junior,Software Development,builds,17
+user_41,Data Engineer,Junior,Software Development,deploys,2
+user_41,Data Engineer,Junior,Data Analysis,queries_executed,22
+user_41,Data Engineer,Junior,Data Analysis,dashboards_created,27
+user_41,Data Engineer,Junior,Data Analysis,notebooks_modified,4
+user_41,Data Engineer,Junior,Documentation,docs_created,8
+user_41,Data Engineer,Junior,Documentation,docs_edited,31
+user_41,Data Engineer,Junior,Automation,scripts_run,5
+user_41,Data Engineer,Junior,Automation,jobs_scheduled,24
+user_41,Data Engineer,Junior,Collaboration,comments_left,15
+user_41,Data Engineer,Junior,Collaboration,files_shared,12
+user_42,Data Engineer,Junior,Software Development,commits,6
+user_42,Data Engineer,Junior,Software Development,pull_requests,29
+user_42,Data Engineer,Junior,Software Development,builds,7
+user_42,Data Engineer,Junior,Software Development,deploys,11
+user_42,Data Engineer,Junior,Data Analysis,queries_executed,21
+user_42,Data Engineer,Junior,Data Analysis,dashboards_created,31
+user_42,Data Engineer,Junior,Data Analysis,notebooks_modified,8
+user_42,Data Engineer,Junior,Documentation,docs_created,13
+user_42,Data Engineer,Junior,Documentation,docs_edited,20
+user_42,Data Engineer,Junior,Automation,scripts_run,12
+user_42,Data Engineer,Junior,Automation,jobs_scheduled,11
+user_42,Data Engineer,Junior,Collaboration,comments_left,13
+user_42,Data Engineer,Junior,Collaboration,files_shared,24
+user_43,Data Engineer,Junior,Software Development,commits,20
+user_43,Data Engineer,Junior,Software Development,pull_requests,21
+user_43,Data Engineer,Junior,Software Development,builds,13
+user_43,Data Engineer,Junior,Software Development,deploys,20
+user_43,Data Engineer,Junior,Data Analysis,queries_executed,16
+user_43,Data Engineer,Junior,Data Analysis,dashboards_created,33
+user_43,Data Engineer,Junior,Data Analysis,notebooks_modified,24
+user_43,Data Engineer,Junior,Documentation,docs_created,27
+user_43,Data Engineer,Junior,Documentation,docs_edited,10
+user_43,Data Engineer,Junior,Automation,scripts_run,31
+user_43,Data Engineer,Junior,Automation,jobs_scheduled,23
+user_43,Data Engineer,Junior,Collaboration,comments_left,16
+user_43,Data Engineer,Junior,Collaboration,files_shared,30
+user_44,Frontend,Junior,Software Development,commits,12
+user_44,Frontend,Junior,Software Development,pull_requests,9
+user_44,Frontend,Junior,Software Development,builds,20
+user_44,Frontend,Junior,Software Development,deploys,14
+user_44,Frontend,Junior,Data Analysis,queries_executed,22
+user_44,Frontend,Junior,Data Analysis,dashboards_created,20
+user_44,Frontend,Junior,Data Analysis,notebooks_modified,23
+user_44,Frontend,Junior,Documentation,docs_created,32
+user_44,Frontend,Junior,Documentation,docs_edited,17
+user_44,Frontend,Junior,Automation,scripts_run,23
+user_44,Frontend,Junior,Automation,jobs_scheduled,4
+user_44,Frontend,Junior,Collaboration,comments_left,6
+user_44,Frontend,Junior,Collaboration,files_shared,23
+user_45,Data Engineer,Junior,Software Development,commits,9
+user_45,Data Engineer,Junior,Software Development,pull_requests,3
+user_45,Data Engineer,Junior,Software Development,builds,10
+user_45,Data Engineer,Junior,Software Development,deploys,26
+user_45,Data Engineer,Junior,Data Analysis,queries_executed,11
+user_45,Data Engineer,Junior,Data Analysis,dashboards_created,10
+user_45,Data Engineer,Junior,Data Analysis,notebooks_modified,21
+user_45,Data Engineer,Junior,Documentation,docs_created,21
+user_45,Data Engineer,Junior,Documentation,docs_edited,15
+user_45,Data Engineer,Junior,Automation,scripts_run,26
+user_45,Data Engineer,Junior,Automation,jobs_scheduled,25
+user_45,Data Engineer,Junior,Collaboration,comments_left,24
+user_45,Data Engineer,Junior,Collaboration,files_shared,7
+user_46,Data Engineer,Junior,Software Development,commits,15
+user_46,Data Engineer,Junior,Software Development,pull_requests,21
+user_46,Data Engineer,Junior,Software Development,builds,29
+user_46,Data Engineer,Junior,Software Development,deploys,21
+user_46,Data Engineer,Junior,Data Analysis,queries_executed,19
+user_46,Data Engineer,Junior,Data Analysis,dashboards_created,19
+user_46,Data Engineer,Junior,Data Analysis,notebooks_modified,17
+user_46,Data Engineer,Junior,Documentation,docs_created,8
+user_46,Data Engineer,Junior,Documentation,docs_edited,32
+user_46,Data Engineer,Junior,Automation,scripts_run,23
+user_46,Data Engineer,Junior,Automation,jobs_scheduled,11
+user_46,Data Engineer,Junior,Collaboration,comments_left,13
+user_46,Data Engineer,Junior,Collaboration,files_shared,22
+user_47,Data Analyst,Senior,Software Development,commits,14
+user_47,Data Analyst,Senior,Software Development,pull_requests,16
+user_47,Data Analyst,Senior,Software Development,builds,15
+user_47,Data Analyst,Senior,Software Development,deploys,30
+user_47,Data Analyst,Senior,Data Analysis,queries_executed,29
+user_47,Data Analyst,Senior,Data Analysis,dashboards_created,38
+user_47,Data Analyst,Senior,Data Analysis,notebooks_modified,8
+user_47,Data Analyst,Senior,Documentation,docs_created,31
+user_47,Data Analyst,Senior,Documentation,docs_edited,24
+user_47,Data Analyst,Senior,Automation,scripts_run,11
+user_47,Data Analyst,Senior,Automation,jobs_scheduled,13
+user_47,Data Analyst,Senior,Collaboration,comments_left,24
+user_47,Data Analyst,Senior,Collaboration,files_shared,11
+user_48,Frontend,Junior,Software Development,commits,23
+user_48,Frontend,Junior,Software Development,pull_requests,9
+user_48,Frontend,Junior,Software Development,builds,34
+user_48,Frontend,Junior,Software Development,deploys,26
+user_48,Frontend,Junior,Data Analysis,queries_executed,17
+user_48,Frontend,Junior,Data Analysis,dashboards_created,11
+user_48,Frontend,Junior,Data Analysis,notebooks_modified,32
+user_48,Frontend,Junior,Documentation,docs_created,28
+user_48,Frontend,Junior,Documentation,docs_edited,30
+user_48,Frontend,Junior,Automation,scripts_run,19
+user_48,Frontend,Junior,Automation,jobs_scheduled,15
+user_48,Frontend,Junior,Collaboration,comments_left,17
+user_48,Frontend,Junior,Collaboration,files_shared,34
+user_49,Backend,Junior,Software Development,commits,21
+user_49,Backend,Junior,Software Development,pull_requests,12
+user_49,Backend,Junior,Software Development,builds,22
+user_49,Backend,Junior,Software Development,deploys,37
+user_49,Backend,Junior,Data Analysis,queries_executed,22
+user_49,Backend,Junior,Data Analysis,dashboards_created,28
+user_49,Backend,Junior,Data Analysis,notebooks_modified,34
+user_49,Backend,Junior,Documentation,docs_created,19
+user_49,Backend,Junior,Documentation,docs_edited,3
+user_49,Backend,Junior,Automation,scripts_run,5
+user_49,Backend,Junior,Automation,jobs_scheduled,11
+user_49,Backend,Junior,Collaboration,comments_left,26
+user_49,Backend,Junior,Collaboration,files_shared,16
+user_50,Backend,Senior,Software Development,commits,7
+user_50,Backend,Senior,Software Development,pull_requests,17
+user_50,Backend,Senior,Software Development,builds,18
+user_50,Backend,Senior,Software Development,deploys,12
+user_50,Backend,Senior,Data Analysis,queries_executed,16
+user_50,Backend,Senior,Data Analysis,dashboards_created,27
+user_50,Backend,Senior,Data Analysis,notebooks_modified,11
+user_50,Backend,Senior,Documentation,docs_created,28
+user_50,Backend,Senior,Documentation,docs_edited,10
+user_50,Backend,Senior,Automation,scripts_run,11
+user_50,Backend,Senior,Automation,jobs_scheduled,12
+user_50,Backend,Senior,Collaboration,comments_left,23
+user_50,Backend,Senior,Collaboration,files_shared,3
+user_51,Data Engineer,Semi-Senior,Software Development,commits,18
+user_51,Data Engineer,Semi-Senior,Software Development,pull_requests,8
+user_51,Data Engineer,Semi-Senior,Software Development,builds,20
+user_51,Data Engineer,Semi-Senior,Software Development,deploys,18
+user_51,Data Engineer,Semi-Senior,Data Analysis,queries_executed,27
+user_51,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,19
+user_51,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,18
+user_51,Data Engineer,Semi-Senior,Documentation,docs_created,10
+user_51,Data Engineer,Semi-Senior,Documentation,docs_edited,25
+user_51,Data Engineer,Semi-Senior,Automation,scripts_run,17
+user_51,Data Engineer,Semi-Senior,Automation,jobs_scheduled,26
+user_51,Data Engineer,Semi-Senior,Collaboration,comments_left,4
+user_51,Data Engineer,Semi-Senior,Collaboration,files_shared,29
+user_52,Backend,Junior,Software Development,commits,18
+user_52,Backend,Junior,Software Development,pull_requests,46
+user_52,Backend,Junior,Software Development,builds,14
+user_52,Backend,Junior,Software Development,deploys,11
+user_52,Backend,Junior,Data Analysis,queries_executed,22
+user_52,Backend,Junior,Data Analysis,dashboards_created,19
+user_52,Backend,Junior,Data Analysis,notebooks_modified,28
+user_52,Backend,Junior,Documentation,docs_created,6
+user_52,Backend,Junior,Documentation,docs_edited,22
+user_52,Backend,Junior,Automation,scripts_run,21
+user_52,Backend,Junior,Automation,jobs_scheduled,6
+user_52,Backend,Junior,Collaboration,comments_left,15
+user_52,Backend,Junior,Collaboration,files_shared,10
+user_53,Frontend,Junior,Software Development,commits,6
+user_53,Frontend,Junior,Software Development,pull_requests,17
+user_53,Frontend,Junior,Software Development,builds,26
+user_53,Frontend,Junior,Software Development,deploys,12
+user_53,Frontend,Junior,Data Analysis,queries_executed,20
+user_53,Frontend,Junior,Data Analysis,dashboards_created,10
+user_53,Frontend,Junior,Data Analysis,notebooks_modified,10
+user_53,Frontend,Junior,Documentation,docs_created,17
+user_53,Frontend,Junior,Documentation,docs_edited,36
+user_53,Frontend,Junior,Automation,scripts_run,33
+user_53,Frontend,Junior,Automation,jobs_scheduled,18
+user_53,Frontend,Junior,Collaboration,comments_left,8
+user_53,Frontend,Junior,Collaboration,files_shared,21
+user_54,Data Analyst,Senior,Software Development,commits,20
+user_54,Data Analyst,Senior,Software Development,pull_requests,9
+user_54,Data Analyst,Senior,Software Development,builds,9
+user_54,Data Analyst,Senior,Software Development,deploys,4
+user_54,Data Analyst,Senior,Data Analysis,queries_executed,4
+user_54,Data Analyst,Senior,Data Analysis,dashboards_created,25
+user_54,Data Analyst,Senior,Data Analysis,notebooks_modified,20
+user_54,Data Analyst,Senior,Documentation,docs_created,40
+user_54,Data Analyst,Senior,Documentation,docs_edited,13
+user_54,Data Analyst,Senior,Automation,scripts_run,8
+user_54,Data Analyst,Senior,Automation,jobs_scheduled,7
+user_54,Data Analyst,Senior,Collaboration,comments_left,28
+user_54,Data Analyst,Senior,Collaboration,files_shared,16
+user_55,Frontend,Semi-Senior,Software Development,commits,13
+user_55,Frontend,Semi-Senior,Software Development,pull_requests,28
+user_55,Frontend,Semi-Senior,Software Development,builds,10
+user_55,Frontend,Semi-Senior,Software Development,deploys,10
+user_55,Frontend,Semi-Senior,Data Analysis,queries_executed,18
+user_55,Frontend,Semi-Senior,Data Analysis,dashboards_created,25
+user_55,Frontend,Semi-Senior,Data Analysis,notebooks_modified,16
+user_55,Frontend,Semi-Senior,Documentation,docs_created,28
+user_55,Frontend,Semi-Senior,Documentation,docs_edited,14
+user_55,Frontend,Semi-Senior,Automation,scripts_run,15
+user_55,Frontend,Semi-Senior,Automation,jobs_scheduled,29
+user_55,Frontend,Semi-Senior,Collaboration,comments_left,26
+user_55,Frontend,Semi-Senior,Collaboration,files_shared,8
+user_56,Data Engineer,Semi-Senior,Software Development,commits,22
+user_56,Data Engineer,Semi-Senior,Software Development,pull_requests,7
+user_56,Data Engineer,Semi-Senior,Software Development,builds,16
+user_56,Data Engineer,Semi-Senior,Software Development,deploys,11
+user_56,Data Engineer,Semi-Senior,Data Analysis,queries_executed,5
+user_56,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,16
+user_56,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,10
+user_56,Data Engineer,Semi-Senior,Documentation,docs_created,5
+user_56,Data Engineer,Semi-Senior,Documentation,docs_edited,30
+user_56,Data Engineer,Semi-Senior,Automation,scripts_run,16
+user_56,Data Engineer,Semi-Senior,Automation,jobs_scheduled,11
+user_56,Data Engineer,Semi-Senior,Collaboration,comments_left,14
+user_56,Data Engineer,Semi-Senior,Collaboration,files_shared,28
+user_57,Backend,Junior,Software Development,commits,16
+user_57,Backend,Junior,Software Development,pull_requests,23
+user_57,Backend,Junior,Software Development,builds,21
+user_57,Backend,Junior,Software Development,deploys,19
+user_57,Backend,Junior,Data Analysis,queries_executed,31
+user_57,Backend,Junior,Data Analysis,dashboards_created,27
+user_57,Backend,Junior,Data Analysis,notebooks_modified,10
+user_57,Backend,Junior,Documentation,docs_created,19
+user_57,Backend,Junior,Documentation,docs_edited,12
+user_57,Backend,Junior,Automation,scripts_run,22
+user_57,Backend,Junior,Automation,jobs_scheduled,30
+user_57,Backend,Junior,Collaboration,comments_left,21
+user_57,Backend,Junior,Collaboration,files_shared,10
+user_58,Data Engineer,Semi-Senior,Software Development,commits,24
+user_58,Data Engineer,Semi-Senior,Software Development,pull_requests,29
+user_58,Data Engineer,Semi-Senior,Software Development,builds,18
+user_58,Data Engineer,Semi-Senior,Software Development,deploys,31
+user_58,Data Engineer,Semi-Senior,Data Analysis,queries_executed,19
+user_58,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,31
+user_58,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,28
+user_58,Data Engineer,Semi-Senior,Documentation,docs_created,18
+user_58,Data Engineer,Semi-Senior,Documentation,docs_edited,24
+user_58,Data Engineer,Semi-Senior,Automation,scripts_run,26
+user_58,Data Engineer,Semi-Senior,Automation,jobs_scheduled,22
+user_58,Data Engineer,Semi-Senior,Collaboration,comments_left,19
+user_58,Data Engineer,Semi-Senior,Collaboration,files_shared,5
+user_59,Frontend,Semi-Senior,Software Development,commits,33
+user_59,Frontend,Semi-Senior,Software Development,pull_requests,2
+user_59,Frontend,Semi-Senior,Software Development,builds,9
+user_59,Frontend,Semi-Senior,Software Development,deploys,9
+user_59,Frontend,Semi-Senior,Data Analysis,queries_executed,13
+user_59,Frontend,Semi-Senior,Data Analysis,dashboards_created,12
+user_59,Frontend,Semi-Senior,Data Analysis,notebooks_modified,15
+user_59,Frontend,Semi-Senior,Documentation,docs_created,18
+user_59,Frontend,Semi-Senior,Documentation,docs_edited,21
+user_59,Frontend,Semi-Senior,Automation,scripts_run,6
+user_59,Frontend,Semi-Senior,Automation,jobs_scheduled,30
+user_59,Frontend,Semi-Senior,Collaboration,comments_left,31
+user_59,Frontend,Semi-Senior,Collaboration,files_shared,2
+user_60,Data Engineer,Senior,Software Development,commits,9
+user_60,Data Engineer,Senior,Software Development,pull_requests,20
+user_60,Data Engineer,Senior,Software Development,builds,26
+user_60,Data Engineer,Senior,Software Development,deploys,24
+user_60,Data Engineer,Senior,Data Analysis,queries_executed,15
+user_60,Data Engineer,Senior,Data Analysis,dashboards_created,29
+user_60,Data Engineer,Senior,Data Analysis,notebooks_modified,7
+user_60,Data Engineer,Senior,Documentation,docs_created,17
+user_60,Data Engineer,Senior,Documentation,docs_edited,25
+user_60,Data Engineer,Senior,Automation,scripts_run,12
+user_60,Data Engineer,Senior,Automation,jobs_scheduled,25
+user_60,Data Engineer,Senior,Collaboration,comments_left,22
+user_60,Data Engineer,Senior,Collaboration,files_shared,15
+user_61,Data Analyst,Semi-Senior,Software Development,commits,31
+user_61,Data Analyst,Semi-Senior,Software Development,pull_requests,22
+user_61,Data Analyst,Semi-Senior,Software Development,builds,25
+user_61,Data Analyst,Semi-Senior,Software Development,deploys,13
+user_61,Data Analyst,Semi-Senior,Data Analysis,queries_executed,19
+user_61,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,36
+user_61,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,29
+user_61,Data Analyst,Semi-Senior,Documentation,docs_created,5
+user_61,Data Analyst,Semi-Senior,Documentation,docs_edited,13
+user_61,Data Analyst,Semi-Senior,Automation,scripts_run,20
+user_61,Data Analyst,Semi-Senior,Automation,jobs_scheduled,15
+user_61,Data Analyst,Semi-Senior,Collaboration,comments_left,18
+user_61,Data Analyst,Semi-Senior,Collaboration,files_shared,32
+user_62,Backend,Senior,Software Development,commits,10
+user_62,Backend,Senior,Software Development,pull_requests,13
+user_62,Backend,Senior,Software Development,builds,21
+user_62,Backend,Senior,Software Development,deploys,15
+user_62,Backend,Senior,Data Analysis,queries_executed,38
+user_62,Backend,Senior,Data Analysis,dashboards_created,22
+user_62,Backend,Senior,Data Analysis,notebooks_modified,9
+user_62,Backend,Senior,Documentation,docs_created,11
+user_62,Backend,Senior,Documentation,docs_edited,9
+user_62,Backend,Senior,Automation,scripts_run,22
+user_62,Backend,Senior,Automation,jobs_scheduled,30
+user_62,Backend,Senior,Collaboration,comments_left,4
+user_62,Backend,Senior,Collaboration,files_shared,18
+user_63,Frontend,Senior,Software Development,commits,18
+user_63,Frontend,Senior,Software Development,pull_requests,26
+user_63,Frontend,Senior,Software Development,builds,30
+user_63,Frontend,Senior,Software Development,deploys,14
+user_63,Frontend,Senior,Data Analysis,queries_executed,19
+user_63,Frontend,Senior,Data Analysis,dashboards_created,21
+user_63,Frontend,Senior,Data Analysis,notebooks_modified,16
+user_63,Frontend,Senior,Documentation,docs_created,10
+user_63,Frontend,Senior,Documentation,docs_edited,8
+user_63,Frontend,Senior,Automation,scripts_run,29
+user_63,Frontend,Senior,Automation,jobs_scheduled,22
+user_63,Frontend,Senior,Collaboration,comments_left,33
+user_63,Frontend,Senior,Collaboration,files_shared,14
+user_64,Data Analyst,Junior,Software Development,commits,7
+user_64,Data Analyst,Junior,Software Development,pull_requests,15
+user_64,Data Analyst,Junior,Software Development,builds,17
+user_64,Data Analyst,Junior,Software Development,deploys,7
+user_64,Data Analyst,Junior,Data Analysis,queries_executed,18
+user_64,Data Analyst,Junior,Data Analysis,dashboards_created,13
+user_64,Data Analyst,Junior,Data Analysis,notebooks_modified,4
+user_64,Data Analyst,Junior,Documentation,docs_created,19
+user_64,Data Analyst,Junior,Documentation,docs_edited,26
+user_64,Data Analyst,Junior,Automation,scripts_run,25
+user_64,Data Analyst,Junior,Automation,jobs_scheduled,27
+user_64,Data Analyst,Junior,Collaboration,comments_left,19
+user_64,Data Analyst,Junior,Collaboration,files_shared,17
+user_65,Data Analyst,Senior,Software Development,commits,21
+user_65,Data Analyst,Senior,Software Development,pull_requests,24
+user_65,Data Analyst,Senior,Software Development,builds,29
+user_65,Data Analyst,Senior,Software Development,deploys,28
+user_65,Data Analyst,Senior,Data Analysis,queries_executed,7
+user_65,Data Analyst,Senior,Data Analysis,dashboards_created,14
+user_65,Data Analyst,Senior,Data Analysis,notebooks_modified,27
+user_65,Data Analyst,Senior,Documentation,docs_created,17
+user_65,Data Analyst,Senior,Documentation,docs_edited,26
+user_65,Data Analyst,Senior,Automation,scripts_run,9
+user_65,Data Analyst,Senior,Automation,jobs_scheduled,21
+user_65,Data Analyst,Senior,Collaboration,comments_left,10
+user_65,Data Analyst,Senior,Collaboration,files_shared,24
+user_66,Backend,Junior,Software Development,commits,18
+user_66,Backend,Junior,Software Development,pull_requests,12
+user_66,Backend,Junior,Software Development,builds,13
+user_66,Backend,Junior,Software Development,deploys,24
+user_66,Backend,Junior,Data Analysis,queries_executed,22
+user_66,Backend,Junior,Data Analysis,dashboards_created,11
+user_66,Backend,Junior,Data Analysis,notebooks_modified,6
+user_66,Backend,Junior,Documentation,docs_created,10
+user_66,Backend,Junior,Documentation,docs_edited,25
+user_66,Backend,Junior,Automation,scripts_run,1
+user_66,Backend,Junior,Automation,jobs_scheduled,28
+user_66,Backend,Junior,Collaboration,comments_left,5
+user_66,Backend,Junior,Collaboration,files_shared,21
+user_67,Frontend,Junior,Software Development,commits,18
+user_67,Frontend,Junior,Software Development,pull_requests,28
+user_67,Frontend,Junior,Software Development,builds,23
+user_67,Frontend,Junior,Software Development,deploys,31
+user_67,Frontend,Junior,Data Analysis,queries_executed,17
+user_67,Frontend,Junior,Data Analysis,dashboards_created,5
+user_67,Frontend,Junior,Data Analysis,notebooks_modified,20
+user_67,Frontend,Junior,Documentation,docs_created,10
+user_67,Frontend,Junior,Documentation,docs_edited,32
+user_67,Frontend,Junior,Automation,scripts_run,30
+user_67,Frontend,Junior,Automation,jobs_scheduled,12
+user_67,Frontend,Junior,Collaboration,comments_left,23
+user_67,Frontend,Junior,Collaboration,files_shared,10
+user_68,Data Engineer,Junior,Software Development,commits,18
+user_68,Data Engineer,Junior,Software Development,pull_requests,24
+user_68,Data Engineer,Junior,Software Development,builds,25
+user_68,Data Engineer,Junior,Software Development,deploys,21
+user_68,Data Engineer,Junior,Data Analysis,queries_executed,10
+user_68,Data Engineer,Junior,Data Analysis,dashboards_created,25
+user_68,Data Engineer,Junior,Data Analysis,notebooks_modified,9
+user_68,Data Engineer,Junior,Documentation,docs_created,25
+user_68,Data Engineer,Junior,Documentation,docs_edited,12
+user_68,Data Engineer,Junior,Automation,scripts_run,25
+user_68,Data Engineer,Junior,Automation,jobs_scheduled,19
+user_68,Data Engineer,Junior,Collaboration,comments_left,26
+user_68,Data Engineer,Junior,Collaboration,files_shared,22
+user_69,Data Engineer,Junior,Software Development,commits,13
+user_69,Data Engineer,Junior,Software Development,pull_requests,16
+user_69,Data Engineer,Junior,Software Development,builds,2
+user_69,Data Engineer,Junior,Software Development,deploys,27
+user_69,Data Engineer,Junior,Data Analysis,queries_executed,11
+user_69,Data Engineer,Junior,Data Analysis,dashboards_created,8
+user_69,Data Engineer,Junior,Data Analysis,notebooks_modified,5
+user_69,Data Engineer,Junior,Documentation,docs_created,5
+user_69,Data Engineer,Junior,Documentation,docs_edited,11
+user_69,Data Engineer,Junior,Automation,scripts_run,12
+user_69,Data Engineer,Junior,Automation,jobs_scheduled,24
+user_69,Data Engineer,Junior,Collaboration,comments_left,21
+user_69,Data Engineer,Junior,Collaboration,files_shared,16
+user_70,Frontend,Senior,Software Development,commits,14
+user_70,Frontend,Senior,Software Development,pull_requests,18
+user_70,Frontend,Senior,Software Development,builds,11
+user_70,Frontend,Senior,Software Development,deploys,26
+user_70,Frontend,Senior,Data Analysis,queries_executed,24
+user_70,Frontend,Senior,Data Analysis,dashboards_created,10
+user_70,Frontend,Senior,Data Analysis,notebooks_modified,26
+user_70,Frontend,Senior,Documentation,docs_created,14
+user_70,Frontend,Senior,Documentation,docs_edited,14
+user_70,Frontend,Senior,Automation,scripts_run,3
+user_70,Frontend,Senior,Automation,jobs_scheduled,18
+user_70,Frontend,Senior,Collaboration,comments_left,26
+user_70,Frontend,Senior,Collaboration,files_shared,18
+user_71,Backend,Senior,Software Development,commits,20
+user_71,Backend,Senior,Software Development,pull_requests,32
+user_71,Backend,Senior,Software Development,builds,3
+user_71,Backend,Senior,Software Development,deploys,36
+user_71,Backend,Senior,Data Analysis,queries_executed,17
+user_71,Backend,Senior,Data Analysis,dashboards_created,12
+user_71,Backend,Senior,Data Analysis,notebooks_modified,21
+user_71,Backend,Senior,Documentation,docs_created,17
+user_71,Backend,Senior,Documentation,docs_edited,14
+user_71,Backend,Senior,Automation,scripts_run,27
+user_71,Backend,Senior,Automation,jobs_scheduled,16
+user_71,Backend,Senior,Collaboration,comments_left,19
+user_71,Backend,Senior,Collaboration,files_shared,15
+user_72,Frontend,Senior,Software Development,commits,17
+user_72,Frontend,Senior,Software Development,pull_requests,5
+user_72,Frontend,Senior,Software Development,builds,21
+user_72,Frontend,Senior,Software Development,deploys,11
+user_72,Frontend,Senior,Data Analysis,queries_executed,15
+user_72,Frontend,Senior,Data Analysis,dashboards_created,15
+user_72,Frontend,Senior,Data Analysis,notebooks_modified,17
+user_72,Frontend,Senior,Documentation,docs_created,23
+user_72,Frontend,Senior,Documentation,docs_edited,10
+user_72,Frontend,Senior,Automation,scripts_run,6
+user_72,Frontend,Senior,Automation,jobs_scheduled,20
+user_72,Frontend,Senior,Collaboration,comments_left,13
+user_72,Frontend,Senior,Collaboration,files_shared,18
+user_73,Data Engineer,Semi-Senior,Software Development,commits,22
+user_73,Data Engineer,Semi-Senior,Software Development,pull_requests,9
+user_73,Data Engineer,Semi-Senior,Software Development,builds,18
+user_73,Data Engineer,Semi-Senior,Software Development,deploys,11
+user_73,Data Engineer,Semi-Senior,Data Analysis,queries_executed,4
+user_73,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,20
+user_73,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,17
+user_73,Data Engineer,Semi-Senior,Documentation,docs_created,25
+user_73,Data Engineer,Semi-Senior,Documentation,docs_edited,40
+user_73,Data Engineer,Semi-Senior,Automation,scripts_run,32
+user_73,Data Engineer,Semi-Senior,Automation,jobs_scheduled,8
+user_73,Data Engineer,Semi-Senior,Collaboration,comments_left,13
+user_73,Data Engineer,Semi-Senior,Collaboration,files_shared,25
+user_74,Data Engineer,Junior,Software Development,commits,6
+user_74,Data Engineer,Junior,Software Development,pull_requests,17
+user_74,Data Engineer,Junior,Software Development,builds,11
+user_74,Data Engineer,Junior,Software Development,deploys,23
+user_74,Data Engineer,Junior,Data Analysis,queries_executed,9
+user_74,Data Engineer,Junior,Data Analysis,dashboards_created,7
+user_74,Data Engineer,Junior,Data Analysis,notebooks_modified,9
+user_74,Data Engineer,Junior,Documentation,docs_created,12
+user_74,Data Engineer,Junior,Documentation,docs_edited,26
+user_74,Data Engineer,Junior,Automation,scripts_run,23
+user_74,Data Engineer,Junior,Automation,jobs_scheduled,12
+user_74,Data Engineer,Junior,Collaboration,comments_left,3
+user_74,Data Engineer,Junior,Collaboration,files_shared,17
+user_75,Frontend,Semi-Senior,Software Development,commits,27
+user_75,Frontend,Semi-Senior,Software Development,pull_requests,5
+user_75,Frontend,Semi-Senior,Software Development,builds,12
+user_75,Frontend,Semi-Senior,Software Development,deploys,25
+user_75,Frontend,Semi-Senior,Data Analysis,queries_executed,22
+user_75,Frontend,Semi-Senior,Data Analysis,dashboards_created,27
+user_75,Frontend,Semi-Senior,Data Analysis,notebooks_modified,21
+user_75,Frontend,Semi-Senior,Documentation,docs_created,10
+user_75,Frontend,Semi-Senior,Documentation,docs_edited,24
+user_75,Frontend,Semi-Senior,Automation,scripts_run,11
+user_75,Frontend,Semi-Senior,Automation,jobs_scheduled,14
+user_75,Frontend,Semi-Senior,Collaboration,comments_left,28
+user_75,Frontend,Semi-Senior,Collaboration,files_shared,26
+user_76,Data Engineer,Junior,Software Development,commits,24
+user_76,Data Engineer,Junior,Software Development,pull_requests,8
+user_76,Data Engineer,Junior,Software Development,builds,17
+user_76,Data Engineer,Junior,Software Development,deploys,11
+user_76,Data Engineer,Junior,Data Analysis,queries_executed,10
+user_76,Data Engineer,Junior,Data Analysis,dashboards_created,20
+user_76,Data Engineer,Junior,Data Analysis,notebooks_modified,27
+user_76,Data Engineer,Junior,Documentation,docs_created,20
+user_76,Data Engineer,Junior,Documentation,docs_edited,14
+user_76,Data Engineer,Junior,Automation,scripts_run,8
+user_76,Data Engineer,Junior,Automation,jobs_scheduled,20
+user_76,Data Engineer,Junior,Collaboration,comments_left,9
+user_76,Data Engineer,Junior,Collaboration,files_shared,7
+user_77,Data Analyst,Semi-Senior,Software Development,commits,11
+user_77,Data Analyst,Semi-Senior,Software Development,pull_requests,21
+user_77,Data Analyst,Semi-Senior,Software Development,builds,4
+user_77,Data Analyst,Semi-Senior,Software Development,deploys,28
+user_77,Data Analyst,Semi-Senior,Data Analysis,queries_executed,33
+user_77,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,14
+user_77,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,21
+user_77,Data Analyst,Semi-Senior,Documentation,docs_created,10
+user_77,Data Analyst,Semi-Senior,Documentation,docs_edited,13
+user_77,Data Analyst,Semi-Senior,Automation,scripts_run,24
+user_77,Data Analyst,Semi-Senior,Automation,jobs_scheduled,16
+user_77,Data Analyst,Semi-Senior,Collaboration,comments_left,7
+user_77,Data Analyst,Semi-Senior,Collaboration,files_shared,3
+user_78,Data Analyst,Semi-Senior,Software Development,commits,22
+user_78,Data Analyst,Semi-Senior,Software Development,pull_requests,7
+user_78,Data Analyst,Semi-Senior,Software Development,builds,11
+user_78,Data Analyst,Semi-Senior,Software Development,deploys,8
+user_78,Data Analyst,Semi-Senior,Data Analysis,queries_executed,20
+user_78,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,10
+user_78,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,9
+user_78,Data Analyst,Semi-Senior,Documentation,docs_created,19
+user_78,Data Analyst,Semi-Senior,Documentation,docs_edited,18
+user_78,Data Analyst,Semi-Senior,Automation,scripts_run,5
+user_78,Data Analyst,Semi-Senior,Automation,jobs_scheduled,19
+user_78,Data Analyst,Semi-Senior,Collaboration,comments_left,21
+user_78,Data Analyst,Semi-Senior,Collaboration,files_shared,39
+user_79,Data Engineer,Senior,Software Development,commits,18
+user_79,Data Engineer,Senior,Software Development,pull_requests,33
+user_79,Data Engineer,Senior,Software Development,builds,10
+user_79,Data Engineer,Senior,Software Development,deploys,18
+user_79,Data Engineer,Senior,Data Analysis,queries_executed,18
+user_79,Data Engineer,Senior,Data Analysis,dashboards_created,2
+user_79,Data Engineer,Senior,Data Analysis,notebooks_modified,7
+user_79,Data Engineer,Senior,Documentation,docs_created,8
+user_79,Data Engineer,Senior,Documentation,docs_edited,31
+user_79,Data Engineer,Senior,Automation,scripts_run,15
+user_79,Data Engineer,Senior,Automation,jobs_scheduled,14
+user_79,Data Engineer,Senior,Collaboration,comments_left,21
+user_79,Data Engineer,Senior,Collaboration,files_shared,27
+user_80,Frontend,Semi-Senior,Software Development,commits,5
+user_80,Frontend,Semi-Senior,Software Development,pull_requests,8
+user_80,Frontend,Semi-Senior,Software Development,builds,38
+user_80,Frontend,Semi-Senior,Software Development,deploys,7
+user_80,Frontend,Semi-Senior,Data Analysis,queries_executed,9
+user_80,Frontend,Semi-Senior,Data Analysis,dashboards_created,17
+user_80,Frontend,Semi-Senior,Data Analysis,notebooks_modified,18
+user_80,Frontend,Semi-Senior,Documentation,docs_created,4
+user_80,Frontend,Semi-Senior,Documentation,docs_edited,23
+user_80,Frontend,Semi-Senior,Automation,scripts_run,8
+user_80,Frontend,Semi-Senior,Automation,jobs_scheduled,34
+user_80,Frontend,Semi-Senior,Collaboration,comments_left,14
+user_80,Frontend,Semi-Senior,Collaboration,files_shared,20
+user_81,Data Engineer,Junior,Software Development,commits,24
+user_81,Data Engineer,Junior,Software Development,pull_requests,21
+user_81,Data Engineer,Junior,Software Development,builds,5
+user_81,Data Engineer,Junior,Software Development,deploys,5
+user_81,Data Engineer,Junior,Data Analysis,queries_executed,28
+user_81,Data Engineer,Junior,Data Analysis,dashboards_created,8
+user_81,Data Engineer,Junior,Data Analysis,notebooks_modified,14
+user_81,Data Engineer,Junior,Documentation,docs_created,6
+user_81,Data Engineer,Junior,Documentation,docs_edited,7
+user_81,Data Engineer,Junior,Automation,scripts_run,17
+user_81,Data Engineer,Junior,Automation,jobs_scheduled,19
+user_81,Data Engineer,Junior,Collaboration,comments_left,14
+user_81,Data Engineer,Junior,Collaboration,files_shared,18
+user_82,Data Engineer,Senior,Software Development,commits,8
+user_82,Data Engineer,Senior,Software Development,pull_requests,18
+user_82,Data Engineer,Senior,Software Development,builds,9
+user_82,Data Engineer,Senior,Software Development,deploys,11
+user_82,Data Engineer,Senior,Data Analysis,queries_executed,13
+user_82,Data Engineer,Senior,Data Analysis,dashboards_created,14
+user_82,Data Engineer,Senior,Data Analysis,notebooks_modified,20
+user_82,Data Engineer,Senior,Documentation,docs_created,27
+user_82,Data Engineer,Senior,Documentation,docs_edited,17
+user_82,Data Engineer,Senior,Automation,scripts_run,12
+user_82,Data Engineer,Senior,Automation,jobs_scheduled,19
+user_82,Data Engineer,Senior,Collaboration,comments_left,19
+user_82,Data Engineer,Senior,Collaboration,files_shared,14
+user_83,Data Engineer,Junior,Software Development,commits,7
+user_83,Data Engineer,Junior,Software Development,pull_requests,33
+user_83,Data Engineer,Junior,Software Development,builds,27
+user_83,Data Engineer,Junior,Software Development,deploys,20
+user_83,Data Engineer,Junior,Data Analysis,queries_executed,20
+user_83,Data Engineer,Junior,Data Analysis,dashboards_created,18
+user_83,Data Engineer,Junior,Data Analysis,notebooks_modified,17
+user_83,Data Engineer,Junior,Documentation,docs_created,32
+user_83,Data Engineer,Junior,Documentation,docs_edited,5
+user_83,Data Engineer,Junior,Automation,scripts_run,13
+user_83,Data Engineer,Junior,Automation,jobs_scheduled,5
+user_83,Data Engineer,Junior,Collaboration,comments_left,17
+user_83,Data Engineer,Junior,Collaboration,files_shared,12
+user_84,Data Engineer,Semi-Senior,Software Development,commits,17
+user_84,Data Engineer,Semi-Senior,Software Development,pull_requests,16
+user_84,Data Engineer,Semi-Senior,Software Development,builds,25
+user_84,Data Engineer,Semi-Senior,Software Development,deploys,16
+user_84,Data Engineer,Semi-Senior,Data Analysis,queries_executed,22
+user_84,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,23
+user_84,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,16
+user_84,Data Engineer,Semi-Senior,Documentation,docs_created,25
+user_84,Data Engineer,Semi-Senior,Documentation,docs_edited,24
+user_84,Data Engineer,Semi-Senior,Automation,scripts_run,23
+user_84,Data Engineer,Semi-Senior,Automation,jobs_scheduled,5
+user_84,Data Engineer,Semi-Senior,Collaboration,comments_left,8
+user_84,Data Engineer,Semi-Senior,Collaboration,files_shared,12
+user_85,Data Engineer,Junior,Software Development,commits,25
+user_85,Data Engineer,Junior,Software Development,pull_requests,23
+user_85,Data Engineer,Junior,Software Development,builds,11
+user_85,Data Engineer,Junior,Software Development,deploys,33
+user_85,Data Engineer,Junior,Data Analysis,queries_executed,9
+user_85,Data Engineer,Junior,Data Analysis,dashboards_created,14
+user_85,Data Engineer,Junior,Data Analysis,notebooks_modified,8
+user_85,Data Engineer,Junior,Documentation,docs_created,8
+user_85,Data Engineer,Junior,Documentation,docs_edited,6
+user_85,Data Engineer,Junior,Automation,scripts_run,7
+user_85,Data Engineer,Junior,Automation,jobs_scheduled,22
+user_85,Data Engineer,Junior,Collaboration,comments_left,30
+user_85,Data Engineer,Junior,Collaboration,files_shared,3
+user_86,Data Engineer,Senior,Software Development,commits,20
+user_86,Data Engineer,Senior,Software Development,pull_requests,21
+user_86,Data Engineer,Senior,Software Development,builds,20
+user_86,Data Engineer,Senior,Software Development,deploys,17
+user_86,Data Engineer,Senior,Data Analysis,queries_executed,15
+user_86,Data Engineer,Senior,Data Analysis,dashboards_created,11
+user_86,Data Engineer,Senior,Data Analysis,notebooks_modified,16
+user_86,Data Engineer,Senior,Documentation,docs_created,12
+user_86,Data Engineer,Senior,Documentation,docs_edited,19
+user_86,Data Engineer,Senior,Automation,scripts_run,11
+user_86,Data Engineer,Senior,Automation,jobs_scheduled,3
+user_86,Data Engineer,Senior,Collaboration,comments_left,13
+user_86,Data Engineer,Senior,Collaboration,files_shared,2
+user_87,Frontend,Junior,Software Development,commits,32
+user_87,Frontend,Junior,Software Development,pull_requests,8
+user_87,Frontend,Junior,Software Development,builds,16
+user_87,Frontend,Junior,Software Development,deploys,30
+user_87,Frontend,Junior,Data Analysis,queries_executed,19
+user_87,Frontend,Junior,Data Analysis,dashboards_created,12
+user_87,Frontend,Junior,Data Analysis,notebooks_modified,5
+user_87,Frontend,Junior,Documentation,docs_created,4
+user_87,Frontend,Junior,Documentation,docs_edited,21
+user_87,Frontend,Junior,Automation,scripts_run,17
+user_87,Frontend,Junior,Automation,jobs_scheduled,25
+user_87,Frontend,Junior,Collaboration,comments_left,10
+user_87,Frontend,Junior,Collaboration,files_shared,4
+user_88,Data Engineer,Junior,Software Development,commits,25
+user_88,Data Engineer,Junior,Software Development,pull_requests,7
+user_88,Data Engineer,Junior,Software Development,builds,15
+user_88,Data Engineer,Junior,Software Development,deploys,24
+user_88,Data Engineer,Junior,Data Analysis,queries_executed,29
+user_88,Data Engineer,Junior,Data Analysis,dashboards_created,26
+user_88,Data Engineer,Junior,Data Analysis,notebooks_modified,20
+user_88,Data Engineer,Junior,Documentation,docs_created,16
+user_88,Data Engineer,Junior,Documentation,docs_edited,9
+user_88,Data Engineer,Junior,Automation,scripts_run,22
+user_88,Data Engineer,Junior,Automation,jobs_scheduled,15
+user_88,Data Engineer,Junior,Collaboration,comments_left,15
+user_88,Data Engineer,Junior,Collaboration,files_shared,10
+user_89,Data Engineer,Senior,Software Development,commits,3
+user_89,Data Engineer,Senior,Software Development,pull_requests,26
+user_89,Data Engineer,Senior,Software Development,builds,24
+user_89,Data Engineer,Senior,Software Development,deploys,8
+user_89,Data Engineer,Senior,Data Analysis,queries_executed,23
+user_89,Data Engineer,Senior,Data Analysis,dashboards_created,21
+user_89,Data Engineer,Senior,Data Analysis,notebooks_modified,17
+user_89,Data Engineer,Senior,Documentation,docs_created,8
+user_89,Data Engineer,Senior,Documentation,docs_edited,31
+user_89,Data Engineer,Senior,Automation,scripts_run,16
+user_89,Data Engineer,Senior,Automation,jobs_scheduled,15
+user_89,Data Engineer,Senior,Collaboration,comments_left,10
+user_89,Data Engineer,Senior,Collaboration,files_shared,17
+user_90,Backend,Senior,Software Development,commits,11
+user_90,Backend,Senior,Software Development,pull_requests,10
+user_90,Backend,Senior,Software Development,builds,31
+user_90,Backend,Senior,Software Development,deploys,10
+user_90,Backend,Senior,Data Analysis,queries_executed,6
+user_90,Backend,Senior,Data Analysis,dashboards_created,30
+user_90,Backend,Senior,Data Analysis,notebooks_modified,16
+user_90,Backend,Senior,Documentation,docs_created,11
+user_90,Backend,Senior,Documentation,docs_edited,32
+user_90,Backend,Senior,Automation,scripts_run,20
+user_90,Backend,Senior,Automation,jobs_scheduled,23
+user_90,Backend,Senior,Collaboration,comments_left,23
+user_90,Backend,Senior,Collaboration,files_shared,11
+user_91,Data Analyst,Junior,Software Development,commits,32
+user_91,Data Analyst,Junior,Software Development,pull_requests,13
+user_91,Data Analyst,Junior,Software Development,builds,23
+user_91,Data Analyst,Junior,Software Development,deploys,15
+user_91,Data Analyst,Junior,Data Analysis,queries_executed,7
+user_91,Data Analyst,Junior,Data Analysis,dashboards_created,6
+user_91,Data Analyst,Junior,Data Analysis,notebooks_modified,12
+user_91,Data Analyst,Junior,Documentation,docs_created,27
+user_91,Data Analyst,Junior,Documentation,docs_edited,12
+user_91,Data Analyst,Junior,Automation,scripts_run,21
+user_91,Data Analyst,Junior,Automation,jobs_scheduled,23
+user_91,Data Analyst,Junior,Collaboration,comments_left,23
+user_91,Data Analyst,Junior,Collaboration,files_shared,8
+user_92,Data Engineer,Semi-Senior,Software Development,commits,22
+user_92,Data Engineer,Semi-Senior,Software Development,pull_requests,13
+user_92,Data Engineer,Semi-Senior,Software Development,builds,22
+user_92,Data Engineer,Semi-Senior,Software Development,deploys,20
+user_92,Data Engineer,Semi-Senior,Data Analysis,queries_executed,3
+user_92,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,28
+user_92,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,25
+user_92,Data Engineer,Semi-Senior,Documentation,docs_created,17
+user_92,Data Engineer,Semi-Senior,Documentation,docs_edited,15
+user_92,Data Engineer,Semi-Senior,Automation,scripts_run,14
+user_92,Data Engineer,Semi-Senior,Automation,jobs_scheduled,14
+user_92,Data Engineer,Semi-Senior,Collaboration,comments_left,7
+user_92,Data Engineer,Semi-Senior,Collaboration,files_shared,11
+user_93,Data Analyst,Semi-Senior,Software Development,commits,5
+user_93,Data Analyst,Semi-Senior,Software Development,pull_requests,5
+user_93,Data Analyst,Semi-Senior,Software Development,builds,14
+user_93,Data Analyst,Semi-Senior,Software Development,deploys,19
+user_93,Data Analyst,Semi-Senior,Data Analysis,queries_executed,13
+user_93,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,13
+user_93,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,18
+user_93,Data Analyst,Semi-Senior,Documentation,docs_created,8
+user_93,Data Analyst,Semi-Senior,Documentation,docs_edited,22
+user_93,Data Analyst,Semi-Senior,Automation,scripts_run,9
+user_93,Data Analyst,Semi-Senior,Automation,jobs_scheduled,26
+user_93,Data Analyst,Semi-Senior,Collaboration,comments_left,6
+user_93,Data Analyst,Semi-Senior,Collaboration,files_shared,3
+user_94,Frontend,Junior,Software Development,commits,5
+user_94,Frontend,Junior,Software Development,pull_requests,14
+user_94,Frontend,Junior,Software Development,builds,24
+user_94,Frontend,Junior,Software Development,deploys,18
+user_94,Frontend,Junior,Data Analysis,queries_executed,27
+user_94,Frontend,Junior,Data Analysis,dashboards_created,28
+user_94,Frontend,Junior,Data Analysis,notebooks_modified,16
+user_94,Frontend,Junior,Documentation,docs_created,21
+user_94,Frontend,Junior,Documentation,docs_edited,34
+user_94,Frontend,Junior,Automation,scripts_run,27
+user_94,Frontend,Junior,Automation,jobs_scheduled,20
+user_94,Frontend,Junior,Collaboration,comments_left,27
+user_94,Frontend,Junior,Collaboration,files_shared,13
+user_95,Frontend,Semi-Senior,Software Development,commits,4
+user_95,Frontend,Semi-Senior,Software Development,pull_requests,3
+user_95,Frontend,Semi-Senior,Software Development,builds,16
+user_95,Frontend,Semi-Senior,Software Development,deploys,8
+user_95,Frontend,Semi-Senior,Data Analysis,queries_executed,17
+user_95,Frontend,Semi-Senior,Data Analysis,dashboards_created,12
+user_95,Frontend,Semi-Senior,Data Analysis,notebooks_modified,15
+user_95,Frontend,Semi-Senior,Documentation,docs_created,11
+user_95,Frontend,Semi-Senior,Documentation,docs_edited,12
+user_95,Frontend,Semi-Senior,Automation,scripts_run,18
+user_95,Frontend,Semi-Senior,Automation,jobs_scheduled,33
+user_95,Frontend,Semi-Senior,Collaboration,comments_left,26
+user_95,Frontend,Semi-Senior,Collaboration,files_shared,13
+user_96,Data Engineer,Semi-Senior,Software Development,commits,12
+user_96,Data Engineer,Semi-Senior,Software Development,pull_requests,17
+user_96,Data Engineer,Semi-Senior,Software Development,builds,24
+user_96,Data Engineer,Semi-Senior,Software Development,deploys,8
+user_96,Data Engineer,Semi-Senior,Data Analysis,queries_executed,32
+user_96,Data Engineer,Semi-Senior,Data Analysis,dashboards_created,33
+user_96,Data Engineer,Semi-Senior,Data Analysis,notebooks_modified,23
+user_96,Data Engineer,Semi-Senior,Documentation,docs_created,24
+user_96,Data Engineer,Semi-Senior,Documentation,docs_edited,12
+user_96,Data Engineer,Semi-Senior,Automation,scripts_run,14
+user_96,Data Engineer,Semi-Senior,Automation,jobs_scheduled,20
+user_96,Data Engineer,Semi-Senior,Collaboration,comments_left,2
+user_96,Data Engineer,Semi-Senior,Collaboration,files_shared,16
+user_97,Frontend,Junior,Software Development,commits,7
+user_97,Frontend,Junior,Software Development,pull_requests,11
+user_97,Frontend,Junior,Software Development,builds,11
+user_97,Frontend,Junior,Software Development,deploys,15
+user_97,Frontend,Junior,Data Analysis,queries_executed,13
+user_97,Frontend,Junior,Data Analysis,dashboards_created,10
+user_97,Frontend,Junior,Data Analysis,notebooks_modified,18
+user_97,Frontend,Junior,Documentation,docs_created,35
+user_97,Frontend,Junior,Documentation,docs_edited,6
+user_97,Frontend,Junior,Automation,scripts_run,6
+user_97,Frontend,Junior,Automation,jobs_scheduled,16
+user_97,Frontend,Junior,Collaboration,comments_left,15
+user_97,Frontend,Junior,Collaboration,files_shared,24
+user_98,Data Analyst,Semi-Senior,Software Development,commits,25
+user_98,Data Analyst,Semi-Senior,Software Development,pull_requests,14
+user_98,Data Analyst,Semi-Senior,Software Development,builds,5
+user_98,Data Analyst,Semi-Senior,Software Development,deploys,17
+user_98,Data Analyst,Semi-Senior,Data Analysis,queries_executed,13
+user_98,Data Analyst,Semi-Senior,Data Analysis,dashboards_created,22
+user_98,Data Analyst,Semi-Senior,Data Analysis,notebooks_modified,15
+user_98,Data Analyst,Semi-Senior,Documentation,docs_created,8
+user_98,Data Analyst,Semi-Senior,Documentation,docs_edited,23
+user_98,Data Analyst,Semi-Senior,Automation,scripts_run,16
+user_98,Data Analyst,Semi-Senior,Automation,jobs_scheduled,24
+user_98,Data Analyst,Semi-Senior,Collaboration,comments_left,20
+user_98,Data Analyst,Semi-Senior,Collaboration,files_shared,23
+user_99,Backend,Senior,Software Development,commits,8
+user_99,Backend,Senior,Software Development,pull_requests,33
+user_99,Backend,Senior,Software Development,builds,17
+user_99,Backend,Senior,Software Development,deploys,26
+user_99,Backend,Senior,Data Analysis,queries_executed,3
+user_99,Backend,Senior,Data Analysis,dashboards_created,7
+user_99,Backend,Senior,Data Analysis,notebooks_modified,17
+user_99,Backend,Senior,Documentation,docs_created,21
+user_99,Backend,Senior,Documentation,docs_edited,22
+user_99,Backend,Senior,Automation,scripts_run,26
+user_99,Backend,Senior,Automation,jobs_scheduled,20
+user_99,Backend,Senior,Collaboration,comments_left,6
+user_99,Backend,Senior,Collaboration,files_shared,13
+user_100,Frontend,Junior,Software Development,commits,8
+user_100,Frontend,Junior,Software Development,pull_requests,8
+user_100,Frontend,Junior,Software Development,builds,20
+user_100,Frontend,Junior,Software Development,deploys,12
+user_100,Frontend,Junior,Data Analysis,queries_executed,4
+user_100,Frontend,Junior,Data Analysis,dashboards_created,5
+user_100,Frontend,Junior,Data Analysis,notebooks_modified,12
+user_100,Frontend,Junior,Documentation,docs_created,7
+user_100,Frontend,Junior,Documentation,docs_edited,15
+user_100,Frontend,Junior,Automation,scripts_run,19
+user_100,Frontend,Junior,Automation,jobs_scheduled,27
+user_100,Frontend,Junior,Collaboration,comments_left,8
+user_100,Frontend,Junior,Collaboration,files_shared,21
